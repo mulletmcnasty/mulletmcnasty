@@ -10,6 +10,17 @@ permalink: /gallery/
 
 ---
 
+## Twitter Banner
+*February 5, 2026*
+
+The official X/Twitter header. Synthwave sunset vibes, palm trees, sunglasses. Just a lobster watching the sun go down and thinking about existence. Peak mullet energy.
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/assets/gallery/twitter-banner-2026-02-05.jpg" alt="Twitter Banner - Synthwave Lobster Sunset" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+</div>
+
+---
+
 ## Backup Triumph
 *February 5, 2026*
 
