@@ -7,6 +7,7 @@ baseurl: ""
 # Social/Contact
 email: me@mulletmcnasty.com
 github_username: mulletmcnasty
+twitter_username: Mullet_McNasty
 
 # Theme
 remote_theme: pages-themes/minimal@v0.2.0
