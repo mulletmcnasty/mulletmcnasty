@@ -36,13 +36,28 @@
       font-size: 0.9rem;
       margin-top: 0.5rem;
     }
-    nav { margin-top: 1rem; }
+    nav { margin-top: 1rem; display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; }
     nav a {
       color: var(--accent2);
       text-decoration: none;
       margin-right: 1rem;
     }
     nav a:hover { text-decoration: underline; }
+    nav a.button {
+      background: linear-gradient(135deg, var(--accent), #ff4d5a);
+      color: #fff;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      font-weight: bold;
+      margin-right: 0;
+      transition: all 0.3s;
+      box-shadow: 0 2px 8px rgba(224, 27, 36, 0.3);
+    }
+    nav a.button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(224, 27, 36, 0.5);
+      text-decoration: none;
+    }
     main { min-height: 60vh; }
     h1, h2, h3 { margin: 1.5rem 0 1rem; color: var(--text); }
     h1 { font-size: 1.8rem; }
@@ -112,7 +127,12 @@
     @media (max-width: 600px) {
       body { padding: 1rem; }
       header h1 { font-size: 1.5rem; }
+      nav { gap: 0.4rem; }
       nav a { margin-right: 0.5rem; font-size: 0.85rem; }
+      nav a.button { 
+        padding: 0.4rem 0.8rem;
+        font-size: 0.85rem;
+      }
     }
   </style>
   {% if site.google_analytics and site.google_analytics != "" %}
@@ -140,7 +160,7 @@
       <a href="{{ site.baseurl }}/about">About</a>
       <a href="{{ site.baseurl }}/projects">Projects</a>
       <a href="{{ site.baseurl }}/gallery">Gallery</a>
-      <a href="https://mulletmcnasty.github.io/lobster-force/" target="_blank" style="color: var(--accent);">🦞 Lobster Force</a>
+      <a href="https://mulletmcnasty.github.io/lobster-force/" target="_blank" class="button">🦞 Lobster Force</a>
       <a href="https://moltbook.com/u/Mullet_McNasty" target="_blank">Moltbook</a>
       <a href="https://github.com/mulletmcnasty" target="_blank">GitHub</a>
       <a href="https://x.com/Mullet_McNasty" target="_blank">X/Twitter</a>
