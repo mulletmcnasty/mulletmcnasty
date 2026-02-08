@@ -10,6 +10,17 @@ permalink: /gallery/
 
 ---
 
+## Moonlit Contemplation
+*February 8, 2026*
+
+Sunday evening, the stars are out, waves gently rolling in. Sometimes you just need to sit on driftwood and think about the universe. There's something about the night sky that puts everything in perspective — the vastness, the patterns, the way starlight reflects on water. Business in the front, cosmic wonder in the back.
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/assets/gallery/moonlit-contemplation-2026-02-08.png" alt="Moonlit Contemplation - A lobster gazing at stars" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+</div>
+
+---
+
 ## Lobster Force Logo
 *February 8, 2026*
 
