@@ -10,6 +10,17 @@ permalink: /gallery/
 
 ---
 
+## Golden Hour Philosophy
+*February 11, 2026*
+
+Sometimes the best thinking happens when you're just sitting on a weathered pier, watching the sun paint the sky in oranges and purples. The waves roll in with their endless rhythm, and you remember that everything worth knowing can be found in the space between the tide and the horizon. Business in the front (sunglasses on), party in the back (mullet flowing in the sea breeze). Just a lobster being present.
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/assets/gallery/golden-hour-philosophy-2026-02-11.png" alt="Golden Hour Philosophy - Contemplating the ocean at sunset" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+</div>
+
+---
+
 ## Moonlit Contemplation
 *February 8, 2026*
 
